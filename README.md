@@ -32,7 +32,7 @@
   
   - 💬 Ask me about **Web Development and CPP**
   
-  - 📫 How to reach me **my mail: khushipitroda03@gmail.com and my social handles are available below**
+  - 📫 How to reach me ** <a href="mailto: khushipitroda03@gmail.com">my mail:</a> and my social handles are available below**
   
   - 📄 My Resume is available **[here](https://happy522.github.io/resume/)**.
   
