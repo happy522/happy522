@@ -13,7 +13,8 @@
  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=happy522&color=1DA1F2&style=for-the-badge" width="170px" alt="happy522" />
      <a href="https://twitter.com/khushi_pitroda_">
-     
+      <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/khushi_pitroda_?color=1DA1F2&labelColor=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+      </a>
     <a href="https://github.com/happy522"><img src="https://img.shields.io/github/followers/happy522?label=Followers&logo=github&Follow&style=for-the-badge" width="150px" alt="astrogeek77"/></a>
     <br>
   </p>
