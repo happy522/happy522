@@ -28,7 +28,7 @@
   
   - 🤝 I’m looking for help with **Data Structures and Algorithms, Competitive Programming**
   
-  - 👓💻 All of my projects are available at [My_Portfolio](https://happy522.github.io/)
+  - 👓💻 All of my projects are available at [My_Portfolio](https://github.com/happy522)
   
   - 💬 Ask me about **Web Development and CPP**
   
