@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+    <img src="/giphy.gif" align="center"/>
   </div>
   <br>
   <h1 align="center">My Name is Khushi Pitroda</h1>
