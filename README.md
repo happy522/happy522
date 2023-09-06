@@ -20,8 +20,9 @@
   </p>
   
   <br>
-  
-  
+
+  - 🏆 **3X Kaggle Expert** [Kaggle](https://www.kaggle.com/khushipitroda)
+    
   - 🌱 I’m currently learning **Python, Django, Data Structures**
   
   - 👯 I’m looking to collaborate on **Web Development Projects, Python Projects**
