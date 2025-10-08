@@ -2,9 +2,9 @@
     <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
   </div>
   <br>
-  <h1 align="center">My Name is Khushi Pitroda</h1>
+  <h1 align="center">Khushi Pitroda here!</h1>
   <p align="center">
-    <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=I+am+a+DJANGO+Developer.;I+am+a+Web+Designer.;I+am+a+Student.;i+am+a+Freelancer."></b>
+    <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=;I+am+a+Researcher;I+am+a+Student.;I+am+a+Learner"></b>
   </p>
   <img align="right" src="/giphy.gif" width="300px" alt="Developer">
   <h3 align="left">Masters in Data Analytics - University of Hildesheim📚.</h3>
