@@ -7,7 +7,7 @@
     <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=I+am+a+DJANGO+Developer.;I+am+a+Web+Designer.;I+am+a+Student.;i+am+a+Freelancer."></b>
   </p>
   <img align="right" src="/giphy.gif" width="300px" alt="Developer">
-  <h3 align="left">Masters in Data Analytics - University of Hildesheim🤖and like Reading Books 📚.</h3>
+  <h3 align="left">Masters in Data Analytics - University of Hildesheim📚.</h3>
   
   
  <p align="left">
@@ -23,7 +23,7 @@
 
   - 🏆 **3X Kaggle Expert** [Kaggle](https://www.kaggle.com/khushipitroda)
     
-  - 🌱 I’m currently learning **NLP, ML, DL*
+  - 🌱 I’m currently learning **NLP, ML, DL**
   
   - 👯 I’m looking to collaborate on **NLP Projects**
   
