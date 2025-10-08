@@ -60,10 +60,6 @@
       <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=happy522&theme=vision-friendly-dark&stroke=0000&background=0D1117&ring=e74c3c&fire=f1c40f&currStreakLabel=2ecc71" alt="happy522" /></p>
     </details>
     <details>
-      <summary><b>📊 Github Contribution Graph</b></summary>
-      <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=happy522&bg_color=0D1117&color=f1c40f&line=e05397&point=FFFFFF&" /></a></p>
-    </details>
-    <details>
       <summary><b>🔎 Most Commit Language</b></summary>
       <p align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=happy522&theme=github_dark"></p>
     </details>
