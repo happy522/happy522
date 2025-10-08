@@ -7,7 +7,7 @@
     <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=I+am+a+DJANGO+Developer.;I+am+a+Web+Designer.;I+am+a+Student.;i+am+a+Freelancer."></b>
   </p>
   <img align="right" src="/giphy.gif" width="300px" alt="Developer">
-  <h3 align="left">Computer engineering sophomore at LDCE, Ahmedabad.I have intrests in Tech 🤖and like Reading Books 📚.</h3>
+  <h3 align="left">Masters in Data Analytics - University of Hildesheim🤖and like Reading Books 📚.</h3>
   
   
  <p align="left">
@@ -23,35 +23,16 @@
 
   - 🏆 **3X Kaggle Expert** [Kaggle](https://www.kaggle.com/khushipitroda)
     
-  - 🌱 I’m currently learning **Python, Django, Data Structures**
+  - 🌱 I’m currently learning **NLP, ML, DL*
   
-  - 👯 I’m looking to collaborate on **Web Development Projects, Python Projects**
+  - 👯 I’m looking to collaborate on **NLP Projects**
   
-  - 🤝 I’m looking for help with **Data Structures and Algorithms, Competitive Programming**
-  
-  - 👓💻 All of my projects are available at [My_Portfolio](https://github.com/happy522)
-  
-  - 💬 Ask me about **Web Development and CPP**
+  - 💬 Ask me about **NLP**
   
   - 📫 How to reach me ** <a href="mailto: khushipitroda03@gmail.com">my mail:</a> and my social handles are available below**
   
-  - 📄 My Resume is available **[here](https://happy522.github.io/resume/)**.
-  
   - ⚡ Fun fact **.... .- .--. .--. -.--**
-  
-  
   <br>
-  <h2 align="center">🖥 My Tech Stack: </h2>
-  <p align="center"> 
-      <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-      <a href="https://www.learncpp.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166253%2Fisolated%2Fpreview%2F14bc03b7b1c2c4e2656fd4c0a981cbbc-icono-de-lenguaje-de-programaci--n-cpp-by-vexels.png&f=1&nofb=1" width="45"/> </a>
-      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-      <a href="https://www.mysql.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG9.png&f=1&nofb=1" width="50"/> </a>
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    
-  </p>
     
   <h2 align="center">🤝 Reach Me:</h2>
   <p align="center">
