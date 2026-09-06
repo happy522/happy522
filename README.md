@@ -38,8 +38,6 @@
   <p align="center">
   <a href="https://www.linkedin.com/in/khushipitroda/"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo.png" width="40"></a>
   <a href="mailto:khushipitroda03@gmail.com"><img src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif" width="50" height="50"></a>
-  <a href="https://www.instagram.com/khushipitroda22/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Finstagram-clipart-logo-1.png&f=1&nofb=1" width="40"></a>
-  <a href="https://twitter.com/khushi_pitroda_"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.idownloadblog.com%2Fwp-content%2Fuploads%2F2015%2F11%2FTwitter-bird-logo-medium.png&f=1&nofb=1" width="40"></a>
  <a href="https://github.com/happy522"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2351%2FPNG%2F512%2Flogo_github_icon_143196.png&f=1&nofb=1" width="40" height="40"></a>
   </p>
   <br>
